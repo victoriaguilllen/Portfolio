@@ -1,7 +1,7 @@
 export default function Home() {
   const projects = [
     {
-      title: "Sentiment Analysis with NLP",
+      title: "Sentiment Analysis (SA) with NLP",
       description:
         "NLP model for sentiment classification in text using Python and PyTorch.",
       tech: ["Python", "PyTorch", "NLP"],
