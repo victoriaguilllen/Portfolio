@@ -10,28 +10,6 @@ export default function Home() {
       image: "/ner_sa_img.png"
     },
     {
-<<<<<<< HEAD
-=======
-      title: "Computer Vision Implementations",
-      description:
-        "From-scratch implementations of core computer vision and deep learning techniques, including adversarial attacks (FGSM, PGD, UAP), explainability methods, generative models (GANs, autoencoders), and semantic segmentation. Originally developed as academic coursework and extended for deeper practical understanding.",
-      tech: ["Python", "PyTorch"],
-      link: "https://github.com/victoriaguilllen/ComputerVisionImplementations",
-      paper: null,
-      image: "/computer_vision.jpg"
-    },
-    {
-      title: "Deep Learning Implementations",
-      description:
-      "Implementations of core deep learning architectures from scratch, including CNNs, RNNs, and regularization techniques such as Batch Normalization and Dropout. This repository focuses on understanding the inner workings of neural networks through hands-on coding.",
-      tech: ["Python", "PyTorch"],
-      link: "https://github.com/victoriaguilllen/DeepLearningImplementations",
-      paper: null,
-      image: "/dl.jpeg"
-    },
-    
-    {
->>>>>>> 57688de (minor changes)
       title: "Warehouse Robot — Deep Reinforcement Learning",
       description:
         "A reinforcement learning project where an agent learns to navigate a simulated warehouse to pick up objects and, optionally, deliver them to a designated area. Two agent families are implemented: SARSA(0) with tile coding and Deep Q-Network (DQN) with PyTorch.",
